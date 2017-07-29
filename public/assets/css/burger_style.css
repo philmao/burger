@@ -39,7 +39,6 @@ p {
 	margin: 20px;
 }
 
-/* Burgers devoured list */
 #burgersEaten {
 	display: inline;
 	margin: 20px;
@@ -53,3 +52,10 @@ p {
 	height: 20px;
 }
 
+#newBurger {
+	display: block;
+	margin: auto;
+	height: 80px;
+	width: 300px;
+	text-align: center;
+}
