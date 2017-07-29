@@ -21,30 +21,6 @@ p {
 .create-update-form {
 	margin: 20px;
 }
-/*.container {
-	display: block;
-	margin: auto;
-}*/
-
-/* Add new burgers */
-/*textarea {
-	display: block;
-	margin: 20px auto;
-}
-
-#submit {
-	display: block;
-	margin: 10px auto;
-	color: white;
-	background: blue;
-}*/
-
-/* Burgers ready list */
-/*#burgersReady {
-	display: inline;
-	margin: 20px;
-
-}*/
 
 .burgerItemDiv {
 	display: block;
