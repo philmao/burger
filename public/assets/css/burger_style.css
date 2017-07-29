@@ -18,11 +18,18 @@ p {
 	text-align: center;
 }
 
-#newBurger {
+.create-update-form {
+	margin: 20px;
+}
+/*.container {
 	display: block;
 	margin: auto;
-	height: 50px;
-	width: 250px;
+}*/
+
+/* Add new burgers */
+/*textarea {
+	display: block;
+	margin: 20px auto;
 }
 
 #submit {
@@ -30,32 +37,43 @@ p {
 	margin: 10px auto;
 	color: white;
 	background: blue;
+}*/
+
+/* Burgers ready list */
+/*#burgersReady {
+	display: inline;
+	margin: 20px;
+
+}*/
+
+.burgerItemDiv {
+	display: block;
+	margin: 0;
 }
 
-.burgerBox {
+.burgerItem {
 	height: 50px;
 	width: 250px;
 	text-align: center;
-	display: inline;
+	display: inline-block;
 }
 
-.devour {
-	display: inline;
+.devourButton {
+	display: inline-block;
+	margin: 20px;
 }
 
-.burgerEatenBox {
+/* Burgers devoured list */
+#burgersEaten {
+	display: inline;
+	margin: 20px;
+	width: 300px;
+}
+
+.burgerEatenItem {
 	display: block;
 	color: gray;
 	width: 300px;
 	height: 20px;
 }
 
-#burgersReady {
-	display: block;
-	margin: auto;
-}
-
-#burgersEaten {
-	display: block;
-	margin: auto;
-}
